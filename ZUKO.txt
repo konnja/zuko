@@ -40,9 +40,7 @@ RecoilControlStrength = recoilStrengths[RecoilControlMode] or RcCustomStrength
 EnablePrimaryMouseButtonEvents(true)
 function OnEvent(event, arg)
     if not EnableRCS then return end
-
     if RequireToggle and not IsKeyLockOn(ToggleKey) then return end
-
     if IsMouseButtonPressed(3) then
         repeat
             if IsMouseButtonPressed(1) then
