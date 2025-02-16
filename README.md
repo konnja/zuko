@@ -1,6 +1,6 @@
 # Zuko
 Zuko's scripts are made with 100% Lua scripting.
-Its free to download and use for everyone out there as it works with any avaiable games.
+Its free to download and use for everyone out there as it works with any available games.
 [HOW TO USE]
 Copy and paste it in your Logitech G HUB
 [STEPS]
