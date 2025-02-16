@@ -1,5 +1,5 @@
 # Zuko
-Zuko is a simple recoil control script made with 100% Lua scripting.
+Zuko's scripts are made with 100% Lua scripting.
 Its free to download and use for everyone out there as it works with any avaiable games.
 [HOW TO USE]
 Copy and paste it in your Logitech G HUB
