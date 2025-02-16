@@ -32,7 +32,7 @@ DelayRate = 7
 
 -------------  Recoil Presets ------
 
-local recoilStrengths = {["1"] = 4, ["2"] = 8, ["3"] = 12}
+local recoilStrengths = {["1"] = 5}
 RecoilControlStrength = recoilStrengths[RecoilControlMode] or RcCustomStrength
 
 ---------- SCRIPT -----------
